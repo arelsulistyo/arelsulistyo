@@ -12,9 +12,6 @@ I am Computer Science student in UGM where I have developed expertise in Fronten
 ![Firebase](https://img.shields.io/badge/Firebase-FB8C00?style=flat-square&logo=firebase&logoColor=white&labelColor=FB8C00)
 ![Google Cloud Platform](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=google-cloud&logoColor=white&labelColor=4285F4)
 
-
-### T:
-
 <!--
 **arelsulistyo/arelsulistyo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
