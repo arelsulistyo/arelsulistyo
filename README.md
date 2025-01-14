@@ -3,13 +3,15 @@
 I am Computer Science student in UGM where I have developed expertise in Frontend and Backend development, with proficiency in programming languages such as JavaScript/TypeScript and frameworks like Next.js and NestJS. I also have hands-on experience with Google Cloud Platform (GCP), utilizing its suite of tools to build and deploy scalable, cloud-based applications. I enjoy collaborating to solve challenges and create impactful solutions, aiming to contribute to meaningful projects and deliver tangible results.
 
 ### Tech Stack:
-![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=flat-square&logo=javascript&logoColor=yellow)
+
+![JavaScript](https://img.shields.io/badge/JavaScript-808080?style=flat-square&logo=javascript&logoColor=yellow)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-000000?style=flat-square&logo=firebase&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 ![Google Cloud Platform](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
+
 
 
 <!--
