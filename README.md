@@ -1,6 +1,8 @@
-### Hello there 👋 I'm Nathanael Aurelino Sulistyo ✨
----
+## Hello there 👋 I'm Nathanael Aurelino Sulistyo ✨
+
 I am Computer Science student in UGM where I have developed expertise in Frontend and Backend development, with proficiency in programming languages such as JavaScript/TypeScript and frameworks like Next.js and NestJS. I also have hands-on experience with Google Cloud Platform (GCP), utilizing its suite of tools to build and deploy scalable, cloud-based applications. I enjoy collaborating to solve challenges and create impactful solutions, aiming to contribute to meaningful projects and deliver tangible results.
+
+### c:
 <!--
 **arelsulistyo/arelsulistyo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
