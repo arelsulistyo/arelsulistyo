@@ -4,7 +4,7 @@ I am Computer Science student in UGM where I have developed expertise in Fronten
 
 ### Tech Stack:
 
-![JavaScript](https://img.shields.io/badge/JavaScript-585858?style=flat-square&logo=javascript&logoColor=yellow&labelColor=808080)
+![JavaScript](https://img.shields.io/badge/JavaScript-585858?style=flat-square&logo=javascript&logoColor=yellow)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white&labelColor=3178C6)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white&labelColor=3776AB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white&labelColor=000000)
