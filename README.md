@@ -4,15 +4,16 @@ I am Computer Science student in UGM where I have developed expertise in Fronten
 
 ### Tech Stack:
 
-![JavaScript](https://img.shields.io/badge/JavaScript-808080?style=flat-square&logo=javascript&logoColor=yellow)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![Google Cloud Platform](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-585858?style=flat-square&logo=javascript&logoColor=white&labelColor=808080)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white&labelColor=3178C6)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white&labelColor=3776AB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white&labelColor=000000)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white&labelColor=E0234E)
+![Firebase](https://img.shields.io/badge/Firebase-FB8C00?style=flat-square&logo=firebase&logoColor=white&labelColor=FB8C00)
+![Google Cloud Platform](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=google-cloud&logoColor=white&labelColor=4285F4)
 
 
+### T:
 
 <!--
 **arelsulistyo/arelsulistyo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
